@@ -55,5 +55,5 @@ This project is structured around two datasets:
 | --- | --- |
 | **Data/Life-Expectancy Cleaned.csv** | Cleaned dataset for reliable analysis. |
 | **Data/Life-Expectancy EDA.csv** | Enhanced dataset with additional calculated fields for EDA |
-| SQL | SQL scripts for data cleaning and exploratory analysis. |
+| SQL/ | SQL scripts for data cleaning and exploratory analysis. |
 | **README.md** | Project overview and detailed instructions. |
