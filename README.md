@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **World Life Expectancy Analysis** project examines global trends in life expectancy, adult mortality, GDP, and socio-economic factors over 15 years. Using SQL for data analysis, the project aims to identify patterns in health outcomes and understand how socio-economic factors like GDP influence life expectancy trends across countries and regions.
+The **World Life Expectancy Analysis** project examines global trends in life expectancy, adult mortality, GDP, and socio-economic factors over for years. Using SQL for data analysis, the project aims to identify patterns in health outcomes and understand how socio-economic factors like GDP influence life expectancy trends across countries and regions.
 
 This project is structured around two datasets:
 
@@ -15,15 +15,15 @@ This project is structured around two datasets:
 
 1. **Analyse Life Expectancy and Mortality Trends**:
     
-    Track life expectancy and adult mortality rates by country and year over 15 years to identify long-term trends and changes in health outcomes.
+    Track life expectancy and adult mortality rates by country and year for 15 years to identify long-term trends and changes in health outcomes.
     
 2. **Examine Rolling Mortality Totals**:
     
-    Calculate the rolling total of adult mortality for each country over the 15 years, providing insight into cumulative mortality patterns and their evolution.
+    Calculate the rolling total of adult mortality for each country for the 15 years, providing insight into cumulative mortality patterns and their evolution.
     
 3. **Explore Country-Level Comparisons**:
     
-    Compare life expectancy and adult mortality across countries over the 15 years to understand regional health disparities and how they have changed over time.
+    Compare life expectancy and adult mortality across countries for the 15 years to understand regional health disparities and how they have changed over time.
     
 
 ### **Features**
