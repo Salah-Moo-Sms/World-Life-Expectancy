@@ -32,8 +32,8 @@ This project is structured around two datasets:
     
     **Cleaning Steps**:
     
-    - Removed duplicates, standardized country names, and corrected missing values.
-    - Generated the **world_life_expectancy_cleaned.csv** dataset for consistent analysis.
+    - Removed duplicates and corrected missing values.
+    - Generated the **life-expectancy cleaned.csv** dataset for consistent analysis.
 2. **SQL-Based Analysis**
     
     Using SQL, the following types of analysis are performed:
