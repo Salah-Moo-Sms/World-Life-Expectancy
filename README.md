@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **World Life Expectancy Analysis** project examines global trends in life expectancy, adult mortality, GDP, and socio-economic factors over for years. Using SQL for data analysis, the project aims to identify patterns in health outcomes and understand how socio-economic factors like GDP influence life expectancy trends across countries and regions.
+The **World Life Expectancy Analysis** project examines global trends in life expectancy, adult mortality, GDP, and social economic factors over for years. Using SQL for data analysis, the project aims to identify patterns in health outcomes and understand how socio-economic factors like GDP influence life expectancy trends across countries and regions.
 
 This project is structured around two datasets:
 
